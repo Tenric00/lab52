@@ -14,6 +14,7 @@ steps:
   displayName: 'Run a one-line script'
 
 - script: cat File1
+  displayName: 'File Output!'
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
